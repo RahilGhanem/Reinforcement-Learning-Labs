@@ -1,0 +1,7 @@
+Init conda env:
+------------------
+$ d:
+$ cd D:\TEACHING\REINFORCEMENT LEARNING\MyLabs\Lab2-Bandits and Exploration - Exploitation
+$ conda activate pytorch-gpu
+$ jupyter notebook
+

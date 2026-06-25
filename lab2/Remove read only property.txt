@@ -1,0 +1,9 @@
+Open With Text Editor Mode:
+---------------------------
+
+Right-click the .ipynb file in VS Code Explorer.
+Select "Open With" → "Text Editor".
+The notebook will open as raw JSON.
+
+Change "editable": false to "editable": true, or remove the "editable" line.
+Change "deletable": false to "deletable": true, or remove the "deletable" line.
